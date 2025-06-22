@@ -1,0 +1,13 @@
+account:
+  service:
+    version: "v1"
+    name: "account-service-prod"
+    env: "prod"
+    configLoadedFrom: "Git-Prod"
+
+server:
+  port: 9012 #Port Configuration
+
+spring:
+  application:
+    name: "ACCOUNTS-SERVICE-PROD"
