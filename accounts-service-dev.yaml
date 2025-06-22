@@ -1,0 +1,13 @@
+account:
+  service:
+    version: "v1"
+    name: "account-service-dev"
+    env: "dev"
+    configLoadedFrom: "git-dev"
+
+server:
+  port: 9012 #Port Configuration
+
+spring:
+  application:
+    name: "ACCOUNTS-SERVICE-DEV"
