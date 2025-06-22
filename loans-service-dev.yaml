@@ -3,7 +3,7 @@ loan:
     version: "v1"
     name: "loans-service-dev"
     env: "dev"
-    configLoadedFrom: "classPath-dev"
+    configLoadedFrom: "{cipher}52a7ae983f4e143b94faa42445aea393dcd52cf44af5b361faba17be3747ccd4"
 
 server:
   port: 9013 #Port Configuration
