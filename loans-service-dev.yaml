@@ -1,0 +1,13 @@
+loan:
+  service:
+    version: "v1"
+    name: "loans-service-dev"
+    env: "dev"
+    configLoadedFrom: "classPath-dev"
+
+server:
+  port: 9013 #Port Configuration
+
+spring:
+  application:
+    name: "LOANS-SERVICE-DEV" #Application Name
