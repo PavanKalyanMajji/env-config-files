@@ -1,6 +1,6 @@
 account:
   service:
-    version: "v2"
+    version: "v1"
     name: "account-service-dev"
     env: "dev"
     configLoadedFrom: "{cipher}52a7ae983f4e143b94faa42445aea393dcd52cf44af5b361faba17be3747ccd4"
