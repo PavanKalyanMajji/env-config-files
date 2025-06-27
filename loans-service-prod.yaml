@@ -1,7 +1,7 @@
 loan:
   service:
     version: "v1"
-    name: "loans-service-prod"
+    name: "loans-service-production"
     env: "prod"
     configLoadedFrom: "{cipher}e1a278e2196af545160ca34462c4351088a8ef979fa6ef5b5abd5a9f420a98a1"
 
